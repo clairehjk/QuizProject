@@ -37,11 +37,6 @@ We propose to make a website with quizzes that generate a result based on the us
 #### Claire: PM/Testing
 - Account page/User management
 - General site nav
-
-#### Jon: UX/UI lead
-- example quiz, quiz design
-- home page design
-
 ---
 
 ### List out any frameworks and libraries that you intend to use
